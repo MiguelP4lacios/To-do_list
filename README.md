@@ -1,4 +1,4 @@
-# To-do List
+# [To-do List](https://cs50.harvard.edu/x/2020/tracks/web/)
  
  
 ## Contents:open_file_folder:
@@ -15,7 +15,7 @@
  
 ## Project Description:newspaper:
  
-This is simple application of a To-do list in order to practice with the python's framework Flask and Jinja Templates
+This is an CS50x simple application of a To-do list updated of the web development path, in order to practice with the python's framework Flask and Jinja Templates
  
 ---
  
